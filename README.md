@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Angelina
 - 👀 I’m interested in most things.
-- 🌱 I’m currently learning programming on beginners level.
+- 🌱 I’m currently studying webbprogrammer at Linnaeus University.
   
 
 <!---
